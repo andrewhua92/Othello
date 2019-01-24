@@ -14,3 +14,8 @@ the same player), then every square space in between the two ends now belong to 
 
 Eventually, the board will fill such that each square in the grid. At this point, the winner of the
 round will be determined. The player who wins is the person with the most territory (or squares).
+
+The game is meant to have all files included in a folder, with the main .java files compiled and to be
+run from the OthelloGUI.java class.
+
+Enjoy!
