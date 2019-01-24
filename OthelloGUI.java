@@ -230,7 +230,6 @@ public class OthelloGUI {
    
    // Create the JLabel for the nextPlayer
       nextPlayerIcon = new JLabel();
-      System.out.println(nextPlayerIcon.getAlignmentX());
       nextPlayerIcon.setAlignmentX(JLabel.CENTER_ALIGNMENT);
       nextPlayerIcon.setIcon(playerIcon[0]);
    
