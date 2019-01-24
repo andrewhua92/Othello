@@ -1,4 +1,4 @@
 2
-images/Halo-Logo7.png
-images/Spartans-logo.jpg
-images/Elites-logo.jpg
+Halo-Logo7.png
+Spartans-logo.png
+Elites-logo.jpg
